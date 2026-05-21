@@ -8,6 +8,7 @@ npx serve .
 No install or dependencies needed.
 
 ---
+Deployed URL: https://pomodoro-timer-npng.vercel.app/
 
 ## 2. Stack & Design Choices
 
