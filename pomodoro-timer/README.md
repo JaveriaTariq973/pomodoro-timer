@@ -21,4 +21,7 @@ That's it. No dependencies to install.
 - Auto-transitions between focus and break
 - Daily session history (persists on reload, resets at midnight)
 - Keyboard shortcut: `Space` = play/pause, `R` = reset
+## Keyboard Shortcuts
+- `Space` — play / pause
+- `R` — reset timer
 - Works on mobile (360px) and desktop (1440px+)
